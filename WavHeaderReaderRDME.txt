@@ -1,0 +1,19 @@
+WavHeaderReader README
+
+/*WavHeaderReader is a simple class to facilate reading data from Wav Files.
+This class was initially developed to aid in a small school project. We used
+an audio library called PortAudio instead of the native ubuntu audio API. I would
+greatly recommend this to anyone interested in playing music from Wav files.
+
+More information can be found at http://portaudio.com/docs/v19-doxydocs/index.html
+
+For more information on the Wav file format, this website was incredibly helpful
+
+http://www.topherlee.com/software/pcm-tut-wavformat.html
+
+Happy Coding!
+
+-Nick Benoit
+6/11/15
+
+*/
